@@ -1,6 +1,6 @@
 <div align="center">
 
-# <h1 align="center">✦ Debark Dutta ✦</h1>
+# <h1 align="center">  Debark Dutta  </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Streamlit;ML+Engineer+%26+Predictive+Modeler;FinTech+%26+Sports+Analytics+Architect" alt="Typing SVG" />
 
