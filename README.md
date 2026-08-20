@@ -2,7 +2,7 @@
 
 # <h1 align="center">  Debark Dutta  </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Python+%E2%80%A2+SQL+%E2%80%A2+Streamlit;ML+Engineer+%26+Predictive+Modeler;FinTech+%26+Sports+Analytics+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=Data+Analyst+%7C+Power+BI+%E2%80%A2+SQL+%E2%80%A2+Python;ML+Engineer+%26+Predictive+Modeler;Business+Intelligence+%26+FinTech+Architect" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DebarkDutta-24&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" alt="Profile Views" />
@@ -27,10 +27,10 @@
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00f2fe) ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00f2fe) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
-| **Data & Machine Learning** | ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00f2fe) ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00f2fe) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E) |
-| **Interactive BI & Visuals** | ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B) ![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=00f2fe) ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811) |
-| **Backend & Tools** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00f2fe) ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00f2fe) ![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| **Business Intelligence & Visuals** | ![Power BI](https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=F2C811) ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=FF4B4B) ![Plotly](https://img.shields.io/badge/Plotly-000000?style=for-the-badge&logo=plotly&logoColor=00f2fe) |
+| **Data Science & ML** | ![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00f2fe) ![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00f2fe) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E) |
+| **Backend & Environments** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC) |
 
 </div>
 
@@ -41,6 +41,10 @@
 </div>
 
 ## 🌟 Featured Projects
+
+### 🍕 [Zomato Live Operations & Fulfillment Analytics Suite](https://github.com/DebarkDutta-24/zomato-operations-analytics-powerbi)
+* **Stack:** `Power BI` • `DAX` • `Data Modeling` • `Excel` • `Business Intelligence`
+* **Architecture:** Engineered an end-to-end operational BI dashboard monitoring multi-city food delivery unit economics, Gross Merchandise Value (GMV), order volume, channel payment distributions, and restaurant partner ratings.
 
 ### 🛡️ [FinTech Digital Payments & Transaction Risk Analytics](https://github.com/DebarkDutta-24/DD-fintech-transaction-risk-analytics)
 * **Stack:** `Python` • `Streamlit` • `Plotly` • `Scikit-learn` • `SQL`
